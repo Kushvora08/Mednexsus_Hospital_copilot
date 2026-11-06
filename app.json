@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "MedNexsus",
+    "slug": "mednexsus",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.mednexsus.copilot"
+    },
+    "web": {
+      "bundler": "metro",
+      "name": "MedNexsus"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
